@@ -18,3 +18,4 @@
 verdor/
 *.lock
 target/
+go.sum
