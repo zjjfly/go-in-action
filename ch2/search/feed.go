@@ -11,7 +11,7 @@ type Feed struct {
 	Type string `json:"type"`
 }
 
-const dataFile = "/Users/zjjfly/GoProjects/src/GoInAction/ch2/data/data.json"
+const dataFile = "ch2/data/data.json"
 
 func RetrieveFeed() ([]*Feed, error) {
 	file, err := os.Open(dataFile)

@@ -1,8 +1,8 @@
 package main
 
 import (
-	_ "GoInAction/ch2/matchers" //_会让我们调用这个包中所有的init函数初始化包
-	"GoInAction/ch2/search"
+	_ "github.com/zjjfly/go-in-action/ch2/matchers" //_会让我们调用这个包中所有的init函数初始化包
+	"github.com/zjjfly/go-in-action/ch2/search"
 	"log"
 	"os"
 )

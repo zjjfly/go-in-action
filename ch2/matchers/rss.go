@@ -1,10 +1,10 @@
 package matchers
 
 import (
-	"GoInAction/ch2/search"
 	"encoding/xml"
 	"errors"
 	"fmt"
+	"github.com/zjjfly/go-in-action/ch2/search"
 	"log"
 	"net/http"
 	"regexp"

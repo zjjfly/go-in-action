@@ -1,9 +1,9 @@
 package ch5
 
 import (
-	"GoInAction/ch5/counters"
-	"GoInAction/ch5/entities"
 	"fmt"
+	"github.com/zjjfly/go-in-action/ch5/counters"
+	"github.com/zjjfly/go-in-action/ch5/entities"
 	"testing"
 )
 

@@ -1,4 +1,4 @@
-module go-in-action
+module github.com/zjjfly/go-in-action
 
 go 1.17
 
